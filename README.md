@@ -1,7 +1,7 @@
 # Full Stack Blog
   [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ## Description
-In challenge 14 we were asked to create a full stack blog app that would allow you to share your thoughts with others.
+In challenge 14 we were asked to create a full stack blog app that would allow you to share your thoughts with others. This project helped me put everything together to make a full stack application.
 ## Table of Contents
 1. [Install](#install)
 2. [Usage](#usage)
@@ -12,9 +12,9 @@ In challenge 14 we were asked to create a full stack blog app that would allow y
 N/A
 
 ## usage
-To use this readme generator you must first install inquirer. Once that has been done then go into your terminal type index.js and answer the questions that pop up.
+To use just login/sign up for the blog and you will be allowed to do anything such as comment or like a post. 
 
-This is what it should look like:  https://drive.google.com/file/d/14IFOLY8Bf2igjnu0PeoOeY9h6CyHawgl/view
+![Preview](./images/screencapture-localhost-3001-login-2023-06-12-18_57_18.jpg)
 
 ## contribution
 I wrote everything with the help of tutor Andrew Hardmon who helped with everything that works.
