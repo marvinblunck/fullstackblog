@@ -12,6 +12,8 @@ In challenge 14 we were asked to create a full stack blog app that would allow y
 N/A
 
 ## usage
+click here to access the blog: https://marvinblunck.github.io/fullstackblog/
+
 To use just login/sign up for the blog and you will be allowed to do anything such as comment or like a post. 
 
 ![Preview](./images/screencapture-localhost-3001-login-2023-06-12-18_57_18.jpg)
